@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringMVCJetty Maven Webapp"
+  id="myeclipse.1480399251682"
+  context-root="/SpringMVCJetty"
+  j2ee-spec="1.7"
+  archive="SpringMVCJetty Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
